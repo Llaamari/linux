@@ -1,4 +1,5 @@
-💻 cPouta Linux-VPS & Apache Assignment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)<br>
+cPouta Linux-VPS & Apache Assignment
 
 This repository contains the implementation of a task requiring deployment of a Linux-based VPS in CSC cPouta, installation of an Apache web server, and hosting of a static HTML page over HTTP (port 80). The page has been personalized, and the service is configured to remain running.
 
@@ -14,7 +15,8 @@ This repository contains the implementation of a task requiring deployment of a 
 | Personalized webpage (not default Apache page) | ✔️ |
 | No personal identifiers displayed | ✔️ |
 
-⭐️ Implementation
+⭐️ Implementation<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 💡 Technologies Used
 - Ubuntu Linux VPS (CSC cPouta)
