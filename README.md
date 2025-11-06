@@ -1,5 +1,5 @@
 # cPouta Linux-VPS & Apache Assignment
-![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![image](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 This repository contains the implementation of a task requiring deployment of a Linux-based VPS in CSC cPouta, installation of an Apache web server, and hosting of a static HTML page over HTTP (port 80). The page has been personalized, and the service is configured to remain running.
 
@@ -21,8 +21,8 @@ This repository contains the implementation of a task requiring deployment of a 
 - Ubuntu Linux VPS (CSC cPouta)
 - Apache2
 - Static files (HTML, CSS, image)<br>
-  ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Repository Contents
 [index.html](https://github.com/Llaamari/linux/blob/main/index.html)<br>
@@ -33,7 +33,7 @@ The `index.html` file renders a personalized static welcome page using the style
 ## Server Configuration Summary
 
 Install Apache:<br>
-![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash Script](https://img.shields.io/badge/Bash_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ```bash
 sudo apt update
 sudo apt install apache2
