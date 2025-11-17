@@ -44,7 +44,3 @@ sudo systemctl enable apache2
 sudo systemctl start apache2
 ```
 Security groups in cPouta configured to allow inbound TCP traffic on port 80.
-
-## Project URL
-
-[http://86.50.21.122/](http://86.50.21.122/)
